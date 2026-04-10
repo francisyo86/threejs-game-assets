@@ -1,0 +1,111 @@
+{
+  "baseUrl": "https://francisyo86.github.io/threejs-game-assets/",
+  "models": {
+    "boats": [
+      "boat-fishing-small.glb",
+      "boat-house-a.glb",
+      "boat-row-large.glb",
+      "boat-sail-b.glb",
+      "boat-speed-e.glb",
+      "boat-tow-b.glb",
+      "boat-tug-a.glb",
+      "ship-cargo-c.glb",
+      "ship-ocean-liner.glb",
+      "ship-small.glb"
+    ],
+    "cars": [
+      "ambulance.glb",
+      "delivery.glb",
+      "firetruck.glb",
+      "garbage-truck.glb",
+      "police.glb",
+      "race.glb",
+      "sedan.glb",
+      "suv-luxury.glb",
+      "suv.glb",
+      "van.glb"
+    ],
+    "cube_animals": [
+      "animal-bee.glb",
+      "animal-bunny.glb",
+      "animal-cat.glb",
+      "animal-chick.glb",
+      "animal-cow.glb",
+      "animal-crab.glb",
+      "animal-deer.glb",
+      "animal-dog.glb",
+      "animal-elephant.glb",
+      "animal-koala.glb"
+    ],
+    "fruits": [
+      "apple.glb",
+      "banana.glb",
+      "cherries.glb",
+      "coconut.glb",
+      "grapes.glb",
+      "lemon.glb",
+      "orange.glb",
+      "pear.glb",
+      "pineapple.glb",
+      "strawberry.glb"
+    ],
+    "meat": [
+      "bacon-raw.glb",
+      "bacon.glb",
+      "hot-dog-raw.glb",
+      "meat-cooked.glb",
+      "meat-patty.glb",
+      "meat-raw.glb",
+      "meat-ribs.glb",
+      "meat-sausage.glb",
+      "sausage.glb",
+      "turkey.glb"
+    ],
+    "mini_characters": [
+      "character-female-a.glb",
+      "character-female-b.glb",
+      "character-female-c.glb",
+      "character-female-d.glb",
+      "character-female-e.glb",
+      "character-female-f.glb",
+      "character-male-a.glb",
+      "character-male-b.glb",
+      "character-male-c.glb",
+      "character-male-d.glb"
+    ],
+    "trains": [
+      "train-diesel-a.glb",
+      "train-diesel-b.glb",
+      "train-electric-double-a.glb",
+      "train-electric-square-a.glb",
+      "train-electric-subway-a.glb",
+      "train-locomotive-a.glb",
+      "train-locomotive-b.glb",
+      "train-locomotive-c.glb",
+      "train-tram-classic.glb",
+      "train-tram-modern.glb"
+    ],
+    "vegetables": [
+      "broccoli.glb",
+      "cabbage.glb",
+      "carrot.glb",
+      "cauliflower.glb",
+      "celery-stick.glb",
+      "leek.glb",
+      "onion.glb",
+      "paprika.glb",
+      "pepper.glb",
+      "pumpkin.glb"
+    ]
+  },
+  "textures": [
+    "boats_textures.png",
+    "cars_textures.png",
+    "cube_animals_textures.png",
+    "fruits_textures.png",
+    "meat_textures.png",
+    "mini_characters_textures.png",
+    "train_textures.png",
+    "vegetables_textures.png"
+  ]
+}
